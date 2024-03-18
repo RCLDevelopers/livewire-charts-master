@@ -315,6 +315,7 @@ If you discover any security related issues, please email santibanez.andres@gmai
 
 ## Credits
 
+- [Zangtics Digittal](https://github.com/RCLDevelopers)
 - [Andrés Santibáñez](https://github.com/asantibanez)
 - [All Contributors](../../contributors)
 
